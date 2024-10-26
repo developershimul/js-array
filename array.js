@@ -9,3 +9,6 @@ numbers.push(4569);
 console.log(numbers);
 numbers.pop();
 console.log(numbers);
+
+const friends = ["kalam", "balam", "nalam", "chilam", "gelam"];
+console.log(friends);
